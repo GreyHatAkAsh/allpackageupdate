@@ -1,0 +1,24 @@
+termux-setup-storage -y
+apt update && apt upgrade -y
+apt install php -y
+apt install python -y
+apt install python2 -y
+apt install git -y
+apt install nano -y
+apt install cmatrix -y
+apt install figlet -y
+apt install wget -y
+apt install toilet -y
+apt install cowsay -y
+apt install ruby -y
+apt install lolcat -y
+apt install curl -y
+apt install openssh -y
+apt install proot -y
+pip install requests
+pip install future
+pkg install pip -y
+clear
+cowsay -f eyes Grey Hat AkAsh | lolcat
+toilet -f big ' G H AkAsh' -F gay | lolcat
+
